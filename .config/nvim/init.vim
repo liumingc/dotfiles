@@ -1,4 +1,4 @@
-autocmd BufNewFile,BufRead *.ML set filetype=sml
+autocmd BufNewFile,BufRead *.ML,*.sig,*.fun set filetype=sml
 set mouse=a
 set nu
 set tw=80
